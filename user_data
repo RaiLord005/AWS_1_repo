@@ -8,6 +8,6 @@ apt-get install -y git
 curl -sL https://deb.nodesource.com/setup_18.x|sudo -E bash -
 apt-get install -y nodejs
 git clone https://github.com/RaiLord005/AWS_1_repo.git
-cd aws
+cd AWS_1_repo
 npm install
 node index.js
